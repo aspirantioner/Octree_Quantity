@@ -1,0 +1,15 @@
+ply
+format ascii 1.0
+element vertex 8
+property uchar x
+property uchar y
+property uchar z
+end_header
+40 57 66
+70 40 37
+58 85 63
+94 47 40
+41 65 72
+73 54 52
+51 74 66
+83 54 52
